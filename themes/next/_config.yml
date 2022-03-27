@@ -348,7 +348,7 @@ codeblock:
   # All available themes: https://theme-next.js.org/highlight/
   theme:
     light: default
-    dark: tomorrow-night
+    dark: tomorrow-night-blue
   prism:
     light: prism-synthwave84
     dark: prism-synthwave84
@@ -599,8 +599,8 @@ gitalk:
   enable: true
   github_id: brazhang
   repo: brazhang.github.io
-  client_id: ba71a05708000167b907
-  client_secret: bb63761e5b045b3b10ba0ebf3fc8250b2fb9b239
+  client_id: Iv1.bbc938565b19a070
+  client_secret: 797962b9fb7cef1e4cfdeaf876cb38462eb55155
   admin_user: brazhang
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
