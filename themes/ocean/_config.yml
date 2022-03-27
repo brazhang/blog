@@ -1,0 +1,60 @@
+# Menu
+menu:
+  主页: /
+  归档: /archives
+  画廊: /gallery
+  关于: /about
+rss: /atom.xml
+
+# Miscellaneous
+favicon: /favicon.ico
+brand: /images/hexo.svg
+
+# Ocean Video
+# Because I put videos in multiple formats on the same path, I just labeled the path here.
+ocean:
+  overlay: true
+  path: /images/ocean/
+  brand: /images/hexo-inverted.svg
+
+# Content`
+excerpt_link: Read More...
+
+# MIIT ICP/IP/DOMAIN
+beian:
+  enable: true
+  number: Brzhang
+  url: https://beian.miit.gov.cn/
+
+# Tags
+show_count: false
+
+# Toc
+toc: true
+
+# fancybox
+fancybox: true
+
+# 是否显示复制按钮
+show_copy_btn: true
+
+# Gitalk
+gitalk:
+  enable: true # true
+  clientID: ba71a05708000167b907
+  clientSecret: bb63761e5b045b3b10ba0ebf3fc8250b2fb9b239
+  repo: brazhang.github.io
+  owner: brazhang
+  admin: brazhang
+
+# Valine
+valine:
+  enable: false # true
+  el: "vcomments"
+  appId:
+  appKey:
+  notify: false
+  verify: true
+  avatar: "mp"
+  pageSize: "10"
+  placeholder: "请输入..."
