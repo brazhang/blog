@@ -95,4 +95,4 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/brazhang/brazhang.github.io
-  branch: master
+  branch: main
