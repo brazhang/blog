@@ -599,8 +599,8 @@ gitalk:
   enable: true
   github_id: brazhang
   repo: brazhang.github.io
-  client_id: Iv1.bbc938565b19a070
-  client_secret: 797962b9fb7cef1e4cfdeaf876cb38462eb55155
+  client_id: 19a9883886a0bba8c946
+  client_secret: c62495a118917544f4f13b32b180c24cf4800d69
   admin_user: brazhang
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
